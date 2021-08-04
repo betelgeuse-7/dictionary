@@ -1,0 +1,15 @@
+export const LANGUAGES = [
+    ["turkish", "tr"],
+    ["arabic", "ar"],
+    ["french", "fr"],
+    ["german", "de"],
+    ["englishUK", "en_GB"],
+    ["englishUS", "en_US"],
+    ["hindi", "hi"],
+    ["spanish", "es"],
+    ["japanese", "ja"],
+    ["russian", "ru"],
+    ["italian", "it"],
+    ["korean", "ko"],
+    ["portugueseBR", "pt-BR"],
+]
